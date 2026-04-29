@@ -31,7 +31,7 @@ Analyzing how external conditions influence internal system behavior.
 
 ## Projects
 
-### 1. Representation vs Model Complexity  
+### 1. Representation vs Model Complexity [In Progress]
 **Focus:** Feature engineering vs model flexibility
 
 - Compared linear and non-linear models on non-linearly separable data
@@ -44,45 +44,26 @@ Model performance is often driven more by **representation choice** than by mode
 
 ---
 
-### 2. Causal Analysis of E-commerce Behavior (Olist Dataset)  
+### 2. Causal Analysis of E-commerce Behavior (Olist Dataset) [In Progress]
 **Focus:** Observational data → decision-oriented insights
-
-- Investigated the effect of delivery delays on customer satisfaction
-- Compared naive estimates vs adjusted models (regression / matching)
-- Identified and analyzed confounding factors (location, product type, pricing)
-- Evaluated robustness of observed relationships
-
-**Key Insight:**  
-Observed correlations can overstate effects; careful adjustment is required before drawing conclusions.
 
 **Extension:**  
 Results are used to propose a structured A/B test to validate the effect in a controlled setting.
 
 ---
 
-### 3. Market Dynamics Analysis (Binance Data)  
+### 3. Market Dynamics Analysis (Binance Data) [In Progress]
 **Focus:** Time series behavior under uncertainty
 
 - Analyzed price and volume dynamics in cryptocurrency markets
 - Explored volatility clustering, regime shifts, and non-stationarity
-- Evaluated limitations of standard modeling assumptions in financial data
-- Investigated signal vs noise in short-term market behavior
-
-**Key Insight:**  
-Financial systems exhibit **non-stationary and regime-dependent behavior**, limiting the reliability of static models.
 
 ---
 
-### 4. E-commerce Behavior under Macro Conditions  
+### 4. E-commerce Behavior under Macro Conditions [In Progress]
 **Focus:** External drivers of system behavior
 
 - Combined e-commerce data with macroeconomic indicators
-- Explored how demand patterns shift with external conditions
-- Analyzed sensitivity of internal metrics to broader economic signals
-- Investigated multi-level dependencies in real-world systems
-
-**Key Insight:**  
-System behavior cannot be fully understood without accounting for **external context and constraints**.
 
 ---
 
@@ -109,17 +90,16 @@ Across projects, the workflow emphasizes:
 
 ## Technical Stack
 
-- **Programming:** Python (pandas, numpy, scikit-learn, statsmodels)  
+- **Programming:** Python (pandas, numpy, scikit-learn)  
 - **Data Handling:** SQL, APIs, ETL workflows  
-- **Visualization:** matplotlib, Power BI
-- **Systems:** AWS, Docker, Kubernetes
+- **Visualization:** matplotlib
 - **Other:** Experimental design, statistical modeling, numerical methods  
 
 ---
 
 ## Notes
 
-- Projects prioritize clarity and reasoning over scale or complexity
+- Projects prioritize clarity and reasoning while identifying when scale and complexity become relevant
 - Many analyses are based on observational data and include explicit discussion of limitations
 - Emphasis is placed on **reproducibility and structured experimentation**
 
