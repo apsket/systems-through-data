@@ -31,8 +31,8 @@ Analyzing how external conditions influence internal system behavior.
 
 ## Projects
 
-### 1. Representation vs Model Complexity [In Progress]
-**Focus:** Feature engineering vs model flexibility
+### 1. Representation vs Model Complexity [In Progress, [View Project →](https://github.com/apsket/feature-representation-vs-model-complexity)]
+**Focus:** Feature engineering vs model flexibilit
 
 - Compared linear and non-linear models on non-linearly separable data
 - Designed geometric feature transformations (e.g., polar coordinates)
@@ -52,7 +52,7 @@ Results are used to propose a structured A/B test to validate the effect in a co
 
 ---
 
-### 3. Market Dynamics Analysis (Binance Data) [In Progress]
+### 3. Market Dynamics Analysis (Binance Data) [In Progress, [View Project →](https://github.com/apsket/binance-market-analysis)] 
 **Focus:** Time series behavior under uncertainty
 
 - Analyzed price and volume dynamics in cryptocurrency markets
@@ -60,7 +60,7 @@ Results are used to propose a structured A/B test to validate the effect in a co
 
 ---
 
-### 4. E-commerce Behavior under Macro Conditions [In Progress]
+### 4. E-commerce Behavior under Macro Conditions [To Do]
 **Focus:** External drivers of system behavior
 
 - Combined e-commerce data with macroeconomic indicators
