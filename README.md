@@ -47,6 +47,11 @@ Model performance is often driven more by **representation choice** than by mode
 ### 2. Causal Analysis of E-commerce Behavior (Olist Dataset) [In Progress]
 **Focus:** Observational data → decision-oriented insights
 
+- Analyzed customer behavior using observational data to identify drivers of conversion and retention
+- Identified potential confounding variables affecting key metrics
+- Framed causal hypotheses and limitations of observational inference
+- Designed A/B testing strategy to validate findings in a controlled setting
+
 **Extension:**  
 Results are used to propose a structured A/B test to validate the effect in a controlled setting.
 
