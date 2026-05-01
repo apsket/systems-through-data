@@ -76,20 +76,11 @@ Results are used to propose a structured A/B test to validate the effect in a co
 
 Across projects, the workflow emphasizes:
 
-1. **Problem Structuring**  
-   Clearly defining what is being measured and why
-
-2. **Assumption Awareness**  
-   Identifying what is implicitly assumed in each method
-
-3. **Comparative Analysis**  
-   Evaluating multiple approaches rather than relying on a single model
-
-4. **Interpretability**  
-   Prioritizing explanations over raw performance metrics
-
-5. **Decision Relevance**  
-   Translating results into actionable insights or experimental proposals
+1. Problem Structuring — define what is measured and why  
+2. Assumption Awareness — make modeling assumptions explicit  
+3. Comparative Analysis — evaluate multiple approaches  
+4. Interpretability — prioritize understanding over black-box performance  
+5. Decision Relevance — translate results into actionable insights
 
 ---
 
